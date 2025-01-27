@@ -1,5 +1,5 @@
-<h2 align="center" >My GitHub username has been changed, now my username is Salman-Ahamed. Visit my Github Account 😥 <a href="https://github.com/Salman-Ahamed">Link</a> </h2>
-<h2 align="center" >আমার GitHub ব্যবহারকারীর নাম পরিবর্তন করা হয়েছে, এখন আমার username নাম **Salman-Ahamed**। আমার Github অ্যাকাউন্টটি দেখুন। 😥 <a href="https://github.com/Salman-Ahamed">Link</a> </h2>
+<h2 align="center" >My GitHub username has been changed, now my username is `Salman-Ahamed`. Visit my Github Account 😥 <a href="https://github.com/Salman-Ahamed">Link</a> </h2>
+<h2 align="center" >আমার GitHub ব্যবহারকারীর নাম পরিবর্তন করা হয়েছে, এখন আমার username নাম *Salman-Ahamed*। আমার Github অ্যাকাউন্টটি দেখুন। 😥 <a href="https://github.com/Salman-Ahamed">Link</a> </h2>
 
 
 <!--
