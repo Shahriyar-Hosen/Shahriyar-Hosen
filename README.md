@@ -1,7 +1,7 @@
-<h2 align="center" >My GitHub username has been changed, now my username is Salman Ahmed. Visit my Github Account 😥 <a href="https://github.com/Salman-Ahamad">Link</a> </h2>
-<h2 align="center" >আমার GitHub ব্যবহারকারীর নাম পরিবর্তন করা হয়েছে, এখন আমার username নাম Salman-Ahamad। আমার Github অ্যাকাউন্টটি দেখুন। 😥 <a href="https://github.com/Salman-Ahamad">Link</a> </h2>
+<h2 align="center" >My GitHub username has been changed, now my username is Salman-Ahamed. Visit my Github Account 😥 <a href="https://github.com/Salman-Ahamed">Link</a> </h2>
+<h2 align="center" >আমার GitHub ব্যবহারকারীর নাম পরিবর্তন করা হয়েছে, এখন আমার username নাম **Salman-Ahamed**। আমার Github অ্যাকাউন্টটি দেখুন। 😥 <a href="https://github.com/Salman-Ahamed">Link</a> </h2>
 
-![Screenshot 2025-01-27 221628](https://github.com/user-attachments/assets/838cd611-0f5c-4c3b-912b-4b02c36e84aa)
+
 <!--
 **Shahriyar-Hosen/Shahriyar-Hosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
